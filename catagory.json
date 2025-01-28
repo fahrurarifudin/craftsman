@@ -1,0 +1,19 @@
+{
+	"data": [{
+			"category_name": "Super Cars",
+			"category_image": "https://myworx.cloud/WPP/CARS/cars_1.jpg"
+		},
+		{
+			"category_name": "Animals",
+			"category_image": "https://myworx.cloud/WPP/ANIMAL/animal_7.jpg"
+		},
+		{
+			"category_name": "BLACK",
+			"category_image": "https://myworx.cloud/WPP/DARK/dark_11.jpg"
+		},
+		{
+			"category_name": "Nature",
+			"category_image": "https://myworx.cloud/WPP/NATURE/nature_3.jpg"
+		}
+	]
+}
