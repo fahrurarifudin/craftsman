@@ -6,7 +6,7 @@
 		"interval_native": 3,
 		"big_native_on_list": true,
 		"interval": 0,
-		"interval_openads": 2,
+		"interval_openads": 1000,
 		"admob_openads": "xxx",
 		"admob_inter": "xxx",
 		"admob_nativ": "xxx",
