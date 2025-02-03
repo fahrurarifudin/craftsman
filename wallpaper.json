@@ -3,7 +3,7 @@
 		"select_ads": "ADMOB",
 		"backup_ads": "MAX",
 		"gdpr_child_directed": false,
-		"interval_native": 25,
+		"interval_native": 75,
 		"big_native_on_list": true,
 		"interval": 50,
 		"interval_openads": 50,
