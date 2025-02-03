@@ -5,7 +5,7 @@
 		"gdpr_child_directed": false,
 		"interval_native": 100,
 		"big_native_on_list": true,
-		"interval": 0,
+		"interval": 5,
 		"interval_openads": 100,
 		"admob_openads": "xxx",
 		"admob_inter": "ca-app-pub-9084282652263891/5500743300",
@@ -14,13 +14,13 @@
 		"admob_reward":"xxx",
 		"max_interst": "2838649e0b560a68",
 		"max_nativ": "29d0d18da450ae9c",
-		"max_banner": "ae44996e2b723dcf",
+		"max_banner": "xxx",
 		"max_reward":"4ad9a6ea35fd4390",
 		"fan_inter": "548194876497884_548228429827862",
 		"fan_native": "548194876497884_568161941167844",
-		"fan_banner": "548194876497884_548195199831185",
+		"fan_banner": "xxx",
 		"fan_native_banner": "548194876497884_573371577313547",
-		"startio_id": "123456789"
+		"startio_id": "xxx"
 	}],
 	"data": [{
 		"id": "13",
