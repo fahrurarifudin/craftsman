@@ -5,7 +5,7 @@
 		"gdpr_child_directed": false,
 		"interval_native": 100,
 		"big_native_on_list": true,
-		"interval": 0,
+		"interval": 100,
 		"interval_openads": 100,
 		"admob_openads": "xxx",
 		"admob_inter": "ca-app-pub-9084282652263891/5500743300",
