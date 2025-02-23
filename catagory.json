@@ -10,6 +10,10 @@
 		{
 			"category_name": "Nature",
 			"category_image": "https://myworx.cloud/WPP/NATURE/nature_3.jpg"
+		},
+		{
+			"category_name": "Dark",
+			"category_image": "https://myworx.cloud/WPP/DARK/dark_11.jpg"
 		}
 	]
 }
