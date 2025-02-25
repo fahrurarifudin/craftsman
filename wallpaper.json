@@ -3,35 +3,90 @@
 		"select_ads": "ADMOB",
 		"backup_ads": "MAX",
 		"gdpr_child_directed": false,
-		"interval_native": 3,
+		"interval_native": 100,
 		"big_native_on_list": true,
-		"interval": 0,
-		"interval_openads": 2,
-		"admob_openads": "ca-app-pub-3940256099942544/3419835294",
-		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
-		"admob_nativ": "ca-app-pub-3940256099942544/2247696110",
-		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-		"admob_reward":"ca-app-pub-3940256099942544/5224354917",
-		"max_interst": "2838649e0b560a68",
-		"max_nativ": "29d0d18da450ae9c",
-		"max_banner": "ae44996e2b723dcf",
-		"max_reward":"4ad9a6ea35fd4390",
-		"fan_inter": "548194876497884_548228429827862",
-		"fan_native": "548194876497884_568161941167844",
-		"fan_banner": "548194876497884_548195199831185",
-		"fan_native_banner": "548194876497884_573371577313547",
-		"startio_id": "123456789"
+		"interval": 100,
+		"interval_openads": 100,
+		"admob_openads": "xxx",
+		"admob_inter": "xxx",
+		"admob_nativ": "xxx",
+		"admob_banner": "xxx",
+		"admob_reward":"xxx",
+		"max_interst": "xxx",
+		"max_nativ": "xxx",
+		"max_banner": "xxx",
+		"max_reward":"xxx",
+		"fan_inter": "xxx",
+		"fan_native": "xxx",
+		"fan_banner": "xxx",
+		"fan_native_banner": "xxx",
+		"startio_id": ""
 	}],
 	"data": [{
 		"id": "13",
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_2.jpg"
 	}, {
 		"id": 19,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_9.jpg"
+	}, {
+		"id": 26,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/b6/46/65/b64665de1f942fa0a34aa915d5431c18.jpg"
+	}, {
+		"id": 27,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/85/d2/8a/85d28abd2e3b5bd1344cc70bf7035c57.jpg"
+	}, {
+		"id": 28,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/ba/e7/ef/bae7ef7e41b866bd314ba8a5050105da.jpg"
+	}, {
+		"id": 28,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/77/4c/a6/774ca6ce0c7552bc8bfda4a5b287fede.jpg"
+	}, {
+		"id": 29,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/dc/2b/93/dc2b932bfa7b72d93c2431267f2c7a27.jpg"
+	}, {
+		"id": 30,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/d4/a1/35/d4a135efe2e184f246af845f6198e712.jpg"
+	}, {
+		"id": 31,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/a5/4a/b2/a54ab2798153ab941b25fe78e8c14666.jpg"
+	}, {
+		"id": 32,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/3b/ef/cc/3befcc4ba7130ac75e7392bda9689412.jpg"
+	}, {
+		"id": 33,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/5c/4b/7f/5c4b7f29855aef5d0184fa94243a4033.jpg"
+	}, {
+		"id": 34,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/e6/68/1a/e6681a6dfb1b5c3776f4b6befa77d2aa.jpg"
+	}, {
+		"id": 35,
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
+		"url_file": "https://i.pinimg.com/736x/02/41/d1/0241d11ece46c982f5a2700d58001957.jpg"
 	}, {
 		"id": 43,
 		"categoryName": "Nature",
@@ -69,8 +124,8 @@
 		"url_file": "https://myworx.cloud/WPP/NATURE/nature_2.jpg"
 	}, {
 		"id": 22,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_12.jpg"
 	}, {
 		"id": 7,
@@ -104,8 +159,8 @@
 		"url_file": "https://myworx.cloud/WPP/NATURE/nature_7.jpg"
 	}, {
 		"id": 15,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_4.jpg"
 	}, {
 		"id": "26",
@@ -159,13 +214,13 @@
 		"url_file": "https://myworx.cloud/WPP/CARS/cars_9.jpg"
 	}, {
 		"id": 21,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_11.jpg"
 	}, {
 		"id": 24,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_14.jpg"
 	}, {
 		"id": 31,
@@ -194,23 +249,23 @@
 		"url_file": "https://myworx.cloud/WPP/DARK/dark_9.jpg"
 	}, {
 		"id": "12",
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_1.jpg"
 	}, {
 		"id": 17,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_7.jpg"
 	}, {
 		"id": 16,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_6.jpg"
 	}, {
 		"id": 23,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_13.jpg"
 	}, {
 		"id": 3,
@@ -229,13 +284,13 @@
 		"url_file": "https://myworx.cloud/WPP/CARS/cars_2.jpg"
 	}, {
 		"id": 18,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_8.jpg"
 	}, {
 		"id": 25,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_5.jpg"
 	}, {
 		"id": 6,
@@ -244,8 +299,8 @@
 		"url_file": "https://myworx.cloud/WPP/CARS/cars_7.jpg"
 	}, {
 		"id": 20,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_10.jpg"
 	}, {
 		"id": 38,
@@ -259,8 +314,8 @@
 		"url_file": "https://myworx.cloud/WPP/DARK/dark_12.jpg"
 	}, {
 		"id": 14,
-		"categoryName": "Animal",
-		"filename": "Animal",
+		"categoryName": "Animals And Cat",
+		"filename": "Animals And Cat",
 		"url_file": "https://myworx.cloud/WPP/ANIMAL/animal_3.jpg"
 	}, {
 		"id": 34,
@@ -268,4 +323,4 @@
 		"filename": "Dark",
 		"url_file": "https://myworx.cloud/WPP/DARK/dark_10.jpg"
 	}]
-}
+}b
