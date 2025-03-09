@@ -1,19 +1,20 @@
 {
-	"data": [{
-			"category_name": "Animals And Cat",
-			"category_image": "https://i.pinimg.com/736x/d4/a1/35/d4a135efe2e184f246af845f6198e712.jpg"
-		},
-		{
-			"category_name": "Super Cars",
-			"category_image": "https://myworx.cloud/WPP/CARS/cars_1.jpg"
-		},
-		{
-			"category_name": "Nature",
-			"category_image": "https://myworx.cloud/WPP/NATURE/nature_3.jpg"
-		},
-		{
-			"category_name": "Dark",
-			"category_image": "https://myworx.cloud/WPP/DARK/dark_2.jpg"
-		}
-	]
+  "data": [
+    {
+      "category_name": "Super Cars",
+      "category_image": "https://myworx.cloud/WPP/CARS/cars_1.jpg"
+    },
+    {
+      "category_name": "Animals",
+      "category_image": "https://myworx.cloud/WPP/ANIMAL/animal_7.jpg"
+    },
+    {
+      "category_name": "BLACK",
+      "category_image": "https://myworx.cloud/WPP/DARK/dark_11.jpg"
+    },
+    {
+      "category_name": "Nature",
+      "category_image": "https://myworx.cloud/WPP/NATURE/nature_3.jpg"
+    }
+  ]
 }
